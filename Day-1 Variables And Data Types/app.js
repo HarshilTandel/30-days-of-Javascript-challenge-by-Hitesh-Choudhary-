@@ -63,10 +63,40 @@ console.log("Reassigned value:", myVariable);
 
 // error : Assignment to constant variable.
 
+// Feature Request 🙇‍♂️
 
+// 1. Variable Types Console Log: Write a script that declares variables of different data types and logs both the values of each variable to the console. ✅
+// declaration
 
+let num = 7;
+let stringVal = "Harshil";
+let valid = true;
+let list = ["JavaScript", "Chai", "Code", "Challenge"];
+let obj = { name: "HArshil", age: 21 };
+let noVal = null;
+let undefined;
 
+// logs
+console.log("Number type :", num);
+console.log("String type :", stringVal);
+console.log("Boolean type :", valid);
+console.log("Array type :", list);
+console.log("Object type :", obj);
+console.log("Null type :", noVal);
+console.log("Undefined type :", undefined);
 
+// 2. Reassignment Demo: Create a script that demonstrates the difference in behavior between `let` and `const` when it comes to reassignment. ✅
+let iniVal = 10
+const iniValue = 20
+console.log(iniVal)
+console.log(iniValue)
+
+// reassignment 
+iniVal = 50
+console.log(iniVal)
+
+iniValue = 100
+// console.log(iniValue) //!!ERROR 
 
 
 
