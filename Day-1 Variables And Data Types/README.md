@@ -48,4 +48,5 @@ By the end of these activities, you will:
 - Be able to use the `typeof` operator to identify the data type of a variable.
 - Understand the concept of variable reassignment and the immutability of `const` variables.
 
+## Output Screenshot
 ![Output Screenshot](Output.png)
