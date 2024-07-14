@@ -27,9 +27,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
 
 ## Progress
-- **Day 1:** [Completed](progress1.md)
-- **Day 2:** [Completed](progress2.md)
-
+- **Day 1:** [Completed](./Day-1_Variables_And_Data_Types/progress1.md)
+- **Day 2:** [Completed](./Day-2_Operators/progress2.md)
+- 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
