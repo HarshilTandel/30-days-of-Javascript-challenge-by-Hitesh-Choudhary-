@@ -34,10 +34,11 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
 
 ## Progress
-- **Day 1:** [Completed](./Day-1_Variables_And_Data_Types/README1.md)
-- **Day 2:** [Completed](./Day-2_Operators/README2.md)
-- **Day 3:** [Completed](./Day-3_Control_Structures/README.md)
-- 
+## Progress
+- **Day 1:** [Completed](./Day-1 Variables And Data Types/README1.md)
+- **Day 2:** [Completed](./Day-2 Operators/README2.md)
+- **Day 3:** [Completed](./Day-3 Control Structures/README3.md)
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
