@@ -12,9 +12,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 | Days | Topics                                      |
 | ---- | ------------------------------------------- |
 | 00   | [Introduction](./README.md)                 |
-| 01   | [Variables and Data Types 🍵✨](./Day-1 Variables And Data Types) |
-| 02   | [Operators](./Day-2 Operators)              |
-| 03   | [Control Structures](./Day-3 Control Structures) |
+| 01   | [Variables and Data Types 🍵✨](./Day-1) |
+| 02   | [Operators](./Day-2 )              |
+| 03   | [Control Structures](./Day-3 ) |
 
 
 ## How to Use
@@ -34,10 +34,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
 
 ## Progress
-## Progress
-- **Day 1:** [Completed](./Day-1 Variables And Data Types/README1.md)
-- **Day 2:** [Completed](./Day-2 Operators/README2.md)
-- **Day 3:** [Completed](./Day-3 Control Structures/README3.md)
+- **Day 1:** [Completed](./README1.md)
+- **Day 2:** [Completed](./README2.md)
+- **Day 3:** [Completed](./README3.md)
 
 ## License
 
