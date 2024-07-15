@@ -9,12 +9,13 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 
 ## Structure
 
-| Days | Topics                                                             |
-| ---- | ------------------------------------------------------------------ |
-| 00   | [Introduction](./README.md)                                        |
-| 01   | [Variables and Data Types 🍵✨](./Day-1_Variables_And_Data_Types)   |
-| 02   | [Operators](./Day-2_Operators)                                    |
-| 03   | [Control Structures](./Day-3_Control_Structures)                  |
+| Days | Topics                                      |
+| ---- | ------------------------------------------- |
+| 00   | [Introduction](./README.md)                 |
+| 01   | [Variables and Data Types 🍵✨](./Day-1 Variables And Data Types) |
+| 02   | [Operators](./Day-2 Operators)              |
+| 03   | [Control Structures](./Day-3 Control Structures) |
+
 
 ## How to Use
 
