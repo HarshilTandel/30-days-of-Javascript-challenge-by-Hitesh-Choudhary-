@@ -1,14 +1,20 @@
 # 30-days-of-Javascript-challenge-by-Hitesh-Choudhary-
 Welcome to the 30-days-of-Javascript-challenge, a guided journey through JavaScript fundamentals and advanced concepts by Hitesh Choudhary. This challenge is designed to help you strengthen your understanding and proficiency in JavaScript through daily tasks and activities.
 
+[![ChaiAurCode - JS](https://img.shields.io/badge/ChaiAurCode-JS-GREEN?style=for-the-badge)](https://)
+
 ## Challenge Overview
 
 Each day, I'll be tackling a new JavaScript challenge or project to improve my coding abilities and deepen my understanding of JavaScript.
 
 ## Structure
 
-- **Day 1:** Variables and Data Types
-- **Day 2:** Operators
+| Days | Topics                                                             |
+| ---- | ------------------------------------------------------------------ |
+| 00   | [Introduction](./README.md)                                        |
+| 01   | [Variables and Data Types 🍵✨](./Day-1_Variables_And_Data_Types)   |
+| 02   | [Operators](./Day-2_Operators)                                    |
+| 03   | [Control Structures](./Day-3_Control_Structures)                  |
 
 ## How to Use
 
@@ -27,8 +33,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
      
 
 ## Progress
-- **Day 1:** [Completed](./Day-1_Variables_And_Data_Types/progress1.md)
-- **Day 2:** [Completed](./Day-2_Operators/progress2.md)
+- **Day 1:** [Completed](./Day-1_Variables_And_Data_Types/README1.md)
+- **Day 2:** [Completed](./Day-2_Operators/README2.md)
+- **Day 3:** [Completed](./Day-3_Control_Structures/README.md)
 - 
 ## License
 
