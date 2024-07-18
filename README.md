@@ -34,3 +34,11 @@
 - Apply functions to solve common problems and perform calculations.
 - Enhance code reusability and organization using functions.
 
+### Day 6: Arrays 📚
+- Learn to create and manipulate arrays.
+- Use array methods such as `push`, `pop`, `shift`, `unshift`.
+- Understand and apply higher-order array methods like `map`, `filter`, and `reduce`.
+- Iterate over arrays using `for` and `forEach` loops.
+- Combine arrays and extract elements using spread syntax and destructuring.
+
+
