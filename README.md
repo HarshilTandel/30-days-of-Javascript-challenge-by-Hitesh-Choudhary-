@@ -41,4 +41,16 @@
 - Iterate over arrays using `for` and `forEach` loops.
 - Combine arrays and extract elements using spread syntax and destructuring.
 
+### Day 7: Objects 🧩
+- Understand the basics of creating and using objects in JavaScript.
+- Learn to define object properties and methods.
+- Access object properties using dot notation and bracket notation.
+- Update and delete object properties.
+- Understand the concept of nested objects.
+- Use `this` keyword within methods to reference the object itself.
+- Iterate over object properties using `for...in` loop.
+- Use `Object.keys`, `Object.values`, and `Object.entries` to work with object properties and values.
+- Understand object destructuring to extract properties.
+- Create and manipulate arrays of objects.
+- Use object methods to add functionality to objects.
 
