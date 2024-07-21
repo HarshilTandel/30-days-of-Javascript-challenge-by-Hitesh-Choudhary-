@@ -61,4 +61,14 @@
 - Define functions with default parameters.
 - Create objects using enhanced object literals, including methods and computed property names.
 
+### Day 9: DOM Manipulation 🌐
+
+- **Access DOM Elements**: `getElementById`, `querySelector`, etc.
+- **Modify DOM Elements**: `textContent`, `innerHTML`, `style`, `setAttribute`.
+- **Create and Remove Elements**: `createElement`, `appendChild`, `removeChild`.
+- **Handle Events**: `addEventListener` for interactions.
+- **Event Propagation**: Bubbling and capturing.
+- **Manipulate Classes**: `classList.add`, `classList.remove`, `classList.toggle`.
+- **Traversal**: `parentNode`, `childNodes`, `nextSibling`.
+
 
