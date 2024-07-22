@@ -1,0 +1,49 @@
+.task-1,.task-2,.task-3,.task-4,.task-5,.task-6,.task-7,.task-8,.task-9,.task-10 {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.hidden {
+    display: none;
+}
+
+.task-4{
+    background-color: black;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+.list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+.parent {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.child-container {
+    list-style-type: none;
+    padding: 0;
+}
+
+.child-container li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+
+.child-container li:hover {
+    background-color: #e0e0e0;
+}
