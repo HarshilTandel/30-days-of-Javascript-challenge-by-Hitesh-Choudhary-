@@ -86,3 +86,14 @@
 - Use `keydown` and `keyup` events to capture user input and make your applications more responsive.
 - Manage form submissions and changes to form elements, such as `submit` and `change` events, to handle user input and validation.
 - Implement event delegation to manage events on dynamically added elements by listening to events on parent elements.
+
+### Day 11: Promises 🤝
+
+- **Understanding Promises**: Learn the basics of promises and why they are used for handling asynchronous operations in JavaScript.
+- **Creating Promises**: Understand how to create a promise using the `Promise` constructor and how to resolve or reject it based on certain conditions.
+- **Using `.then()` and `.catch()`**: Learn how to handle the resolved value of a promise with `.then()` and catch errors with `.catch()`.
+- **Chaining Promises**: Understand how to chain multiple promises together to handle a sequence of asynchronous operations.
+- **Handling Multiple Promises**: Use `Promise.all` to handle multiple promises in parallel and `Promise.race` to react to the first promise that resolves or rejects.
+- **Async/Await**: Learn how to use `async` and `await` to write cleaner and more readable asynchronous code.
+- **Error Handling**: Understand how to handle errors in asynchronous code using `try...catch` with `async/await`.
+- **Real-World Applications**: Apply promises to handle asynchronous operations like API calls, file reading, and timers.
