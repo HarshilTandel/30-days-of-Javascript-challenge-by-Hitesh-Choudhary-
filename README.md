@@ -97,3 +97,17 @@
 - **Async/Await**: Learn how to use `async` and `await` to write cleaner and more readable asynchronous code.
 - **Error Handling**: Understand how to handle errors in asynchronous code using `try...catch` with `async/await`.
 - **Real-World Applications**: Apply promises to handle asynchronous operations like API calls, file reading, and timers.
+
+### Day 12: Error Handling 🚨
+
+- **Understanding Errors**: Learn about the different types of errors in JavaScript, such as syntax errors, runtime errors, and logical errors.
+- **Using `try...catch`**: Understand how to use `try...catch` blocks to handle errors gracefully and prevent your application from crashing.
+- **Throwing Errors**: Learn how to use the `throw` statement to create custom errors and provide meaningful error messages.
+- **Error Objects**: Understand the properties of error objects, such as `name` and `message`, and how to use them to get more information about an error.
+- **Handling Specific Errors**: Use multiple `catch` blocks or error classes to handle different types of errors in a more specific manner.
+- **Finally Block**: Learn how to use the `finally` block to execute code that should run regardless of whether an error occurred.
+- **Custom Error Classes**: Create and use custom error classes to define specific error types for your application.
+- **Logging Errors**: Understand the importance of logging errors for debugging and maintaining your application.
+- **Asynchronous Error Handling**: Learn how to handle errors in asynchronous code using promises and `async...await`.
+- **Graceful Degradation**: Implement strategies to allow your application to continue functioning in a limited capacity even when an error occurs.
+- **Error Boundaries in React**: Understand how to use error boundaries to catch JavaScript errors in React components and display a fallback UI.
