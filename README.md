@@ -111,3 +111,17 @@
 - **Asynchronous Error Handling**: Learn how to handle errors in asynchronous code using promises and `async...await`.
 - **Graceful Degradation**: Implement strategies to allow your application to continue functioning in a limited capacity even when an error occurs.
 - **Error Boundaries in React**: Understand how to use error boundaries to catch JavaScript errors in React components and display a fallback UI.
+
+
+### Day 13: Modules 📦
+
+* **Understanding Modules**: Learn the basics of modules in JavaScript and why they are used to organize and reuse code.
+* **Exporting and Importing**: Understand how to export and import functions, variables, and classes between modules using `export` and `import` statements.
+* **Default Exports**: Learn how to use default exports to export a single value or object from a module.
+* **Named Exports**: Understand how to use named exports to export multiple values or objects from a module.
+* **Re-exporting**: Learn how to re-export values from one module to another using `export * from` and `export { ... } from` syntax.
+* **Dynamic Imports**: Understand how to use dynamic imports to load modules conditionally or on demand using the `import()` function.
+* **Module Bundlers**: Get an introduction to module bundlers like Webpack, Rollup, and Parcel, which help bundle and optimize JavaScript modules for production.
+* **Scope and Encapsulation**: Learn how modules help encapsulate code and maintain separate scopes to avoid naming conflicts and improve code maintainability.
+* **Practical Examples**: Apply your knowledge of modules to create a modular application, organizing code into different modules for better structure and reusability.
+* **Browser and Node.js Modules**: Understand the differences between modules in the browser environment (using ES modules) and Node.js environment (using CommonJS modules).
