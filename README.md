@@ -125,3 +125,17 @@
 * **Scope and Encapsulation**: Learn how modules help encapsulate code and maintain separate scopes to avoid naming conflicts and improve code maintainability.
 * **Practical Examples**: Apply your knowledge of modules to create a modular application, organizing code into different modules for better structure and reusability.
 * **Browser and Node.js Modules**: Understand the differences between modules in the browser environment (using ES modules) and Node.js environment (using CommonJS modules).
+
+### Day 14: Classes 🏛️
+
+* **Class Definition**: Define classes using the `class` keyword and create instances of these classes.
+
+* **Class Properties and Methods**: Understand how to add properties and methods to a class.
+
+* **Inheritance**: Learn how to create subclasses using `extends` and override methods in the subclass.
+
+* **Static Methods and Properties**: Define static methods and properties that are called on the class itself, not on instances of the class.
+
+* **Getters and Setters**: Implement getter and setter methods to encapsulate and control access to class properties.
+
+* **Private Fields**: Understand how to use private fields to keep certain properties private and only accessible within the class.
