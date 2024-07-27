@@ -139,3 +139,11 @@
 * **Getters and Setters**: Implement getter and setter methods to encapsulate and control access to class properties.
 
 * **Private Fields**: Understand how to use private fields to keep certain properties private and only accessible within the class.
+
+### Day 15: Closures 🔒
+
+- **Understanding Closures**: Learn the concept of closures in JavaScript and how functions can retain access to their lexical scope.
+- **Creating Closures**: Understand how to create closures and why they are useful for maintaining state and creating private variables.
+- **Practical Examples**: Apply closures in real-world scenarios, such as event handlers, timers, and module patterns.
+- **IIFE (Immediately Invoked Function Expressions)**: Use IIFEs to create isolated scope and avoid polluting the global namespace.
+- **Use Cases**: Explore various use cases of closures, such as creating factory
