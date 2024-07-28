@@ -147,3 +147,14 @@
 - **Practical Examples**: Apply closures in real-world scenarios, such as event handlers, timers, and module patterns.
 - **IIFE (Immediately Invoked Function Expressions)**: Use IIFEs to create isolated scope and avoid polluting the global namespace.
 - **Use Cases**: Explore various use cases of closures, such as creating factory
+
+### Day 16: Recursion 🔄
+
+- **Understanding Recursion**: Learn the concept of recursion, where a function calls itself to solve smaller instances of the same problem.
+- **Base Case and Recursive Case**: Understand how to define a base case to terminate recursion and a recursive case to break down the problem.
+- **Common Recursive Algorithms**: Implement common recursive algorithms such as factorial, Fibonacci sequence, and finding the greatest common divisor (GCD).
+- **Tree and Graph Traversal**: Apply recursion to traverse data structures like trees and graphs, including depth-first search (DFS).
+- **Recursion vs. Iteration**: Compare the benefits and drawbacks of recursion versus iteration and when to use each approach.
+- **Tail Recursion**: Learn about tail recursion and how it can optimize recursive functions to prevent stack overflow.
+- **Memoization**: Implement memoization to optimize recursive functions by caching previously computed results.
+- **Practical Examples**: Solve practical problems using recursion.
