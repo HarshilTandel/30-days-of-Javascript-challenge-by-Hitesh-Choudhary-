@@ -158,3 +158,25 @@
 - **Tail Recursion**: Learn about tail recursion and how it can optimize recursive functions to prevent stack overflow.
 - **Memoization**: Implement memoization to optimize recursive functions by caching previously computed results.
 - **Practical Examples**: Solve practical problems using recursion.
+
+### Day 17: Data Structures 📂
+  
+- **Linked Lists**:
+  - Understand the structure of singly linked lists and doubly linked lists.
+  - Implement basic operations like insertion, deletion, and traversal.
+  - Learn about the advantages and disadvantages of linked lists compared to arrays.
+
+- **Stacks**:
+  - Understand the stack data structure and its LIFO (Last In, First Out) principle.
+  - Implement stack operations like `push`, `pop`, and `peek`.
+  - Explore use cases of stacks, such as expression evaluation and backtracking algorithms.
+
+- **Queues**:
+  - Learn about queues and their FIFO (First In, First Out) principle.
+  - Implement queue operations like `enqueue` and `dequeue`.
+  - Understand different types of queues such as circular queues and priority queues.
+
+- **Trees**:
+  - Learn the basics of tree data structures, including binary trees, binary search trees, and balanced trees.
+  - Implement common tree operations like insertion, deletion, and traversal (in-order, pre-order, post-order).
+  - Understand the concepts of AVL trees and red-black trees for self-balancing properties.
