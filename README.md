@@ -180,3 +180,21 @@
   - Learn the basics of tree data structures, including binary trees, binary search trees, and balanced trees.
   - Implement common tree operations like insertion, deletion, and traversal (in-order, pre-order, post-order).
   - Understand the concepts of AVL trees and red-black trees for self-balancing properties.
+
+## Day 18: Algorithms 🔢
+
+1. **Bubble Sort**: Repeatedly compares and swaps adjacent elements to sort the list. Simple but inefficient for large datasets.
+
+2. **Selection Sort**: Repeatedly selects the smallest (or largest) element from the unsorted portion and moves it to the sorted portion. Simple but inefficient for large datasets.
+
+3. **Quick Sort**: Divides the list into smaller sub-lists based on a pivot element, recursively sorts the sub-lists, and then combines them. Efficient with a time complexity of O(n log n) on average.
+
+4. **Binary Search**: Efficiently searches a sorted list by repeatedly dividing the search interval in half. Time complexity is O(log n).
+
+5. **Dynamic Programming**: Solves complex problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations. Used for optimization problems like the knapsack problem and Fibonacci sequence.
+
+6. **Knapsack Problem**: Determines the most valuable combination of items to carry without exceeding the weight limit. Solved using dynamic programming or greedy algorithms.
+
+7. **Fibonacci Sequence**: Calculates the nth Fibonacci number using recursive, iterative, or dynamic programming approaches.
+
+
