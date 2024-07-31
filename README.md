@@ -198,3 +198,10 @@
 7. **Fibonacci Sequence**: Calculates the nth Fibonacci number using recursive, iterative, or dynamic programming approaches.
 
 
+## Day-19: Regular Expressions 🌟
+
+- **Basic Patterns:** Learn to write regular expressions to match specific words and digits in a string.
+- **Character Classes and Quantifiers:** Use character classes and quantifiers to identify words with specific characteristics and sequences of digits.
+- **Grouping and Capturing:** Extract specific parts of strings, such as phone numbers and email addresses, using grouping and capturing.
+- **Assertions and Boundaries:** Match words at specific positions in a string with assertions and boundaries.
+- **Practical Applications:** Validate passwords and URLs using regular expressions.
