@@ -31,3 +31,4 @@ This is a 30-day challenge to help you learn JavaScript. Each day, you will comp
 | 21 | LeetCode Easy Challenges 🧩 | Solved common coding challenges from LeetCode: Two Sum, Reverse Integer, Palindrome Number, Merge Two Sorted Lists, and Valid Parentheses. |
 | 22 | LeetCode Medium Challenges 🔧 | Solved intermediate coding challenges from LeetCode: Add Two Numbers, Longest Substring Without Repeating Characters, Container With Most Water, 3Sum, and Group Anagrams. |
 | 23 | LeetCode Hard Challenges 🔒 | Solved advanced coding challenges from LeetCode: Median of Two Sorted Arrays, Merge k Sorted Lists, N-Queens, Trapping Rain Water, and Word Ladder. |
+| 24 | Weather App 🌦️ | Developed a weather application that displays current weather conditions using a public weather API. Implemented features to search for weather by city, display temperature, humidity, and weather descriptions, and styled the app for a clean user interface. | 
