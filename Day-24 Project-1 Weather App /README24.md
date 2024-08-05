@@ -1,5 +1,8 @@
 ## Day 24: Project 1 - Weather App 🌦️
 
+### Website Demo 🌐
+Check out the live demo of the Weather App [here](https://weatherflow-check.netlify.app/).
+
 ### Tasks/Activities:
 
 #### Activity 1: Setting Up the Project 🏗️
